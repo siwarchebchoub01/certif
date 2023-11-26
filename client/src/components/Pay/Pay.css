@@ -1,0 +1,21 @@
+.backy{
+    background-color: rgb(194, 199, 199);
+}
+
+
+
+.paye {
+    font-size: 1rem;
+    position: relative;
+    top: -15px;
+    font-family: ui-serif;
+    font-size: 35px;
+    font-style: inderline;
+    left: -149px;
+    color: crimson;
+    font-style: italic;
+}
+.custom {
+    position: relative;
+    font-size: large;
+}

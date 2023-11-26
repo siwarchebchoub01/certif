@@ -1,0 +1,11 @@
+.register{
+    background-image: url('../Login//Design\ sans\ titre\ \(3\).png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height : 967px !important;
+}
+
+.card_register{
+    height: 700px;
+}

@@ -1,0 +1,40 @@
+.tt{
+    height: 200px !important;
+}
+.card-text {
+    width: 200px;
+    font-family: cursive;
+    color: black;
+    font-weight: bolder;
+    margin-bottom: 0%;
+    text-decoration: none;
+    font-size: revert;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: unset;
+    position: relative;
+    left: 3px;
+    bottom: -143px;
+}
+.card-img, .card-img-top {
+    border-top-left-radius: var(--bs-card-inner-border-radius);
+    border-top-right-radius: var(--bs-card-inner-border-radius);
+    position: relative;
+    bottom: -158px;
+}
+.PRICE {
+    position: relative;
+    bottom: -151px;
+    left: 60px;
+    font-family: unset;
+    font-size: x-large;
+    color: red;
+}
+.card-title {
+    margin-bottom: var(--bs-card-title-spacer-y);
+    color: var(--bs-card-title-color);
+    position: relative;
+    top: 152px;
+    color: brown;
+    font-family: cursive;
+}

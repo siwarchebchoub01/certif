@@ -1,0 +1,163 @@
+.page_login{
+    background-image: url('../Login/Design\ sans\ titre\ \(3\).png'); /* Path to your background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+  height:730px
+  }
+
+.gradient-custom-2 {
+ 
+    background: #fccb90;
+    
+ 
+    background: -webkit-linear-gradient(to right, #ee6808, #813010, #b3b3b3, #ffffff);
+    
+     
+    background: -webkit-linear-gradient(to right, #3b1901, #813010, #b3b3b3, #ffffff);
+    }
+    
+  
+    @media (min-width: 600px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }.justify-content-center {
+        justify-content: center !important;
+        width: 930px;
+    }
+    .mt-1 {
+        font-style: italic;
+        font-weight: bold;
+        margin-left: 131px;
+        position: relative;
+        bottom: -83px;
+        width: max-content;
+        font-family: monospace;
+    }
+    .py-5 {
+        
+        padding-bottom: 3rem !important;
+        width: 868px;
+       
+    }
+    
+    .row > * {
+        
+        width: 70%;
+        max-width: 100%;
+        padding-right: calc(var(--bs-gutter-x) * 0.5);
+        padding-left: calc(var(--bs-gutter-x) * 0.5);
+        /* margin-top: var(--bs-gutter-y); */
+       }
+       .logo {
+        height: 156px;
+        width: 220px;
+        position: relative;
+        right: -60px;
+        bottom: -76px;
+        align-content: space-between;
+        --bs-gutter-x: -16.5rem;
+    }
+            .p {
+                width: 200px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                color: black;
+                font-weight: bolder;
+                text-decoration: none;
+                font-size: small;
+                position: relative;
+                bottom: 19px;
+            }
+                .form-control {
+                    display: block;
+                    width: 157%;
+                    padding: -7.625rem 0.75rem;
+                    font-size: 1rem;
+                    font-weight: 400;
+                    line-height: 1.5;
+                    color: var(--bs-body-color);
+                    appearance: none;
+                    background-color: var(--bs-body-bg);
+                    background-clip: padding-box;
+                    border: var(--bs-border-width) solid var(--bs-border-color);
+                    border-radius: var(--bs-border-radius);
+                    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+                    position: relative;
+                    bottom: -26px;
+                }
+                .form-label {
+                    margin-bottom: 0.5rem;
+                    position: relative;
+                    bottom: 46px;
+                    font-family: cursive;
+                    font-style: italic;
+                }
+                
+                    .gradient-custom-2 {
+                        position: absolute;
+                        background: #fccb90;
+                        position: relative;
+                  bottom: 50px;
+                        left: 137px;
+                    }
+                    .text-center {
+                        
+                        position: relative;
+                        bottom: 46px;
+                        left: 7px;
+                    }
+                    .card {
+                        --bs-card-spacer-y: 1rem;
+                        --bs-card-spacer-x: 1rem;
+                        --bs-card-title-spacer-y: 0.5rem;
+                        --bs-card-title-color: ;
+                        --bs-card-subtitle-color: ;
+                        --bs-card-border-width: var(--bs-border-width);
+                        --bs-card-border-color: var(--bs-border-color-translucent);
+                        --bs-card-border-radius: var(--bs-border-radius);
+                        --bs-card-box-shadow: ;
+                        --bs-card-inner-border-radius: calc(var(--bs-border-radius) - (var(--bs-border-width)));
+                        --bs-card-cap-padding-y: 0.5rem;
+                        --bs-card-cap-padding-x: 1rem;
+                        --bs-card-cap-bg: rgba(var(--bs-body-color-rgb), 0.03);
+                        --bs-card-cap-color: ;
+                        --bs-card-height: ;
+                        --bs-card-color: ;
+                        --bs-card-bg: var(--bs-body-bg);
+                        --bs-card-img-overlay-padding: 1rem;
+                        --bs-card-group-margin: 0.75rem;
+                        position: relative;
+                        display: flex;
+                        /* flex-direction: column-reverse; */
+                        width: 699px;
+                        height: 505px;
+                        /* color: var(--bs-body-color); */
+                        word-wrap: break-word;
+                        background-color: var(--bs-card-bg);
+                        background-clip: border-box;
+                        border: var(--bs-card-border-width) solid var(--bs-card-border-color);
+                        border-radius: var(--bs-card-border-radius);
+                        justify-content: center;
+                        align-content: flex-end;
+                        flex-wrap: nowrap;
+                        /* align-items: baseline; */
+                        bottom: -67px;
+                    }
+                    .gradient-custom-2 {
+                        /* position: absolute; */
+                        background-color: rgb(165, 165, 50);
+                        color: black;
+                        position: relative;
+                        bottom: -24px;
+                        left: 86px;
+                        width: 92px
+                    }
+                    .botlogin {
+                        width: auto;
+                        position: relative;
+                        left: 101px;
+                        bottom: -34px;
+                        border-radius: 60px;
+                        background-color: rgb(165, 165, 50);
+                    }

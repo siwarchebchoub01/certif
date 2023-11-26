@@ -1,0 +1,24 @@
+.para1 {
+    position: relative;
+    left: 552px;
+    font-family: auto;
+    font-size: 34px;
+    color: brown;
+}
+.para2 {
+    position: relative;
+    left: 60px;
+    width: 398px;
+    font-family: cursive;
+    font-size: medium;
+    bottom: -39px;
+    border: black;
+}
+.para3 {
+    position: relative;
+    left: 656px;
+    bottom: 306px;
+    width: 650px;
+    font-family: cursive;
+    font-size: medium;
+}

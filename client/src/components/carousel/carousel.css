@@ -1,0 +1,15 @@
+ .imgcarousel{
+    height: 489px;
+    width: 1400px;
+    position: relative;
+    
+     
+ }
+.des{
+  
+    position: absolute;
+    top: 65px;
+    color: black;
+    z-index: 100;
+    
+ }

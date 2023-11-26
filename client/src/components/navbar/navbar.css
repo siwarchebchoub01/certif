@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&family=Roboto:wght@100&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Body Styles */
+  body {
+    font-family: 'sans-serif';
+  }
+  
+  /* Link Styles */
+  a {
+    text-decoration: none;
+    color: black;
+    
+    
+    text-transform: uppercase;
+  }
+  
+  /* Navbar Styles */
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    background-color: rgb(236, 204, 134);
+    height: 70px;
+  }
+  
+  /* Logo Styles */
+  .logo {
+    font-size: 1.8rem;
+    color: rgb(5, 5, 116);
+    padding-left: 20px;
+  }
+  
+  /* Hamburger Menu Styles */
+  .hamburger {
+    padding-right: 20px;
+    cursor: pointer;
+  }
+  
+  /* Hamburger Line Styles */
+  .hamburger .line {
+    display: block;
+    width: 40px;
+    height: 5px;
+    margin-bottom: 8px;
+    background-color: black;
+  }
+  
+  /* Navigation Link Styles */
+  .nav__link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 5rem;
+    left: 0;
+    background-color: lightblue;
+  }
+  
+  .nav__link a {
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+  }
+  
+  .nav__link a:hover {
+    background-color: rgb(209, 197, 27);
+
+  }
+  button {
+    border-radius: 27% !;
+  }
+  /* Hide Class to Hide Elements */
+  .hide {
+    display: none;
+  }
+  .nav2{
+    display: flex;
+ margin-right: 620px;
+   border: 2px;
+font-family: 'Roboto', sans-serif;
+justify-content: space-between;
+position: relative;
+left: 229px;
+
+bottom: 130px;
+gap: 10px;
+  }
+p{
+width: 200px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: black;
+font-weight: bolder;
+margin-bottom: 0%;
+text-decoration: none;
+font-size: small;
+ 
+  margin-top: 0;
+  margin-bottom: 1rem;
+  position: relative;
+  left: -38px;
+
+}
+a {
+ 
+  text-decoration: none !important
+}
+.Acceuil {
+  /* margin-right: 18px; */
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+  font-weight: bolder;
+  position: relative;
+  top: 5px;
+  right: 31PX;
+}
+
+span{
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    width: 200px;
+ 
+}
+ 
+/* Logo Styles */
+.logo {
+  font-size: 30pt; /* Adjust the font size as needed */
+  color: rgb(5, 5, 116); /* Choose the color that matches your design */
+  text-decoration: none; /* Remove underline from the link */
+  font-weight: bold; /* Adjust font weight as needed */
+}
+/* Logo Styles */
+  .logo1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+text-decoration: double;
+    font-weight: bold;
+    color: rgb(226, 95, 8); /* Choose the color that matches your design */
+    font-size: 12pt; /* Adjust the font size as needed */
+    font-style: italic;
+    font-family:edu Verdana, Geneva, Tahoma, sans-serif;
+   
+  }
+  /* Hover Effect for Logo */
+   
+.lol{
+    height: 130px;
+    width: 230px;
+    position: relative;
+    right: 30px;
+   bottom: 85px;
+   
+}
+.nav23{
+    position: absolute;
+    display: flex;
+    gap: 20px;
+    right: 300px;
+    width: 100px;
+}
+.fa-duotone{
+    width: 200px;
+}
+ /* Common Button Styles */
+button {
+    font-size: 10pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff; /* Change the background color as needed */
+    font-family: 'Roboto', sans-serif;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 10%;
+    transition: background-color 0.3s;
+    
+  }
+  
+  
+  
+  /* User Icon Styles */
+  .fa-regular.fa-user {
+    font-size: 1.5rem; /* Adjust the icon size as needed */
+    color: #ff0000; /* Change the icon color as needed */
+    margin-right: 10px; /* Add spacing to the right of the icon */
+    right: 50px;
+  }
+  
+  /* Container Styles */
+  .nav23 {
+    display: flex;
+    align-items: center;
+    right: 320px;
+    
+  }
+   .fa-bag-shopping  {
+    font-size: 1.5rem; /* Adjust the icon size as needed */
+    color:#ff0000; /* Change the icon color as needed */
+    margin-right: 10px; /* Add spacing to the right of the icon */
+    right: 50px;
+  }
+  .fa-pen{
+    font-size: 1.5rem; /* Adjust the icon size as needed */
+    color: #ff0000; /* Change the icon color as needed */
+    margin-right: 10px; /* Add spacing to the right of the icon */
+    right: 50px;
+  }
